@@ -1,5 +1,5 @@
-# cli Budget Tracker
-![screenshot](preview_cli_budget.png)
+# Duke Greenscreen Project
+![screenshot](placeholder)
 
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
